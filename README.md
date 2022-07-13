@@ -7,6 +7,7 @@
 5. nodemon
 
 
+
 ## SCRIPT
 1.package.json
 <img width="1680" alt="package_json" src="https://user-images.githubusercontent.com/27715383/178656876-8334d296-2d34-41bc-9602-000582e51374.png">
@@ -22,6 +23,13 @@
 
 4.controller.js
 <img width="1673" alt="controller_js" src="https://user-images.githubusercontent.com/27715383/178657326-47e2fb53-5448-49c0-9489-6cae7accf7b4.png">
+
+
+
+## IMPLEMENTATION
+1.Node Server Running
+<img width="548" alt="node_server_running" src="https://user-images.githubusercontent.com/27715383/178657959-2f502c1a-72e7-4140-84e0-72e812cec67f.png">
+
 
 
 
