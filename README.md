@@ -42,6 +42,21 @@ Node Server Running
 
 
 
+# TEST TWO - Onemap API Connect.
+
+1. Search : "Hospital" and PageNum : "1"
+<img width="1678" alt="Search_Hospital_pageNum_1" src="https://user-images.githubusercontent.com/27715383/178659320-44b398f6-9d36-4b02-8bfa-cc5f3b8e6f42.png">
+
+2. Search : "Hospital" and PageNum : "2"
+<img width="1680" alt="Search_Hospital_pageNum_2" src="https://user-images.githubusercontent.com/27715383/178659349-799bb117-d53b-40d3-ae2b-87466e75829b.png">
+
+3. Search : "Mall" and PageNum : "1"
+<img width="1677" alt="Search_Mall_pageNum_1" src="https://user-images.githubusercontent.com/27715383/178659385-d2aa9291-8367-462e-8c40-6fbbbdbccd1d.png">
+
+4. Search : "Mall" and PageNum : "5"
+<img width="1679" alt="Search_Mall_pageNum_5" src="https://user-images.githubusercontent.com/27715383/178659421-74eb2dd4-9a8a-438d-a714-c19cd4ae6575.png">
+
+
 
 
 
