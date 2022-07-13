@@ -1,1 +1,9 @@
-#<h4>Project setup</h4>
+## Project setup
+
+In the project directory, you can run:
+
+```
+npm install
+# or
+yarn install
+```
