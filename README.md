@@ -28,7 +28,7 @@
 
 ## IMPLEMENTATION
 1.Node Server Running
-<img width="548" alt="node_server_running" src="https://user-images.githubusercontent.com/27715383/178657959-2f502c1a-72e7-4140-84e0-72e812cec67f.png">
+<img width="770" alt="Screen Shot 2022-07-13 at 12 32 32" src="https://user-images.githubusercontent.com/27715383/178658162-b68f0fc0-1cd1-4a09-8f1d-1a691b2887d6.png">
 
 
 
