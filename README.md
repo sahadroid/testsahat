@@ -27,8 +27,19 @@
 
 
 ## IMPLEMENTATION
-1.Node Server Running
+
+Node Server Running
 <img width="770" alt="Screen Shot 2022-07-13 at 12 32 32" src="https://user-images.githubusercontent.com/27715383/178658162-b68f0fc0-1cd1-4a09-8f1d-1a691b2887d6.png">
+
+# TEST ONE - Pivot Index.
+<img width="1680" alt="pivot_index_3" src="https://user-images.githubusercontent.com/27715383/178658569-b502577d-ff73-4ac5-8943-97c355d80b60.png">
+
+<img width="1680" alt="pivot_index_-1" src="https://user-images.githubusercontent.com/27715383/178658623-cb4beb6a-ba7b-49fb-b66c-5f60d4a0ded2.png">
+
+<img width="1665" alt="pivot_index__3" src="https://user-images.githubusercontent.com/27715383/178658713-aefbec5f-d4cf-4ef1-837a-b9dc7860581c.png">
+
+<img width="1680" alt="pivot_index_0" src="https://user-images.githubusercontent.com/27715383/178658780-ef046fc5-cfef-4c2a-a0f1-a79446eca249.png">
+
 
 
 
